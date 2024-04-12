@@ -58,11 +58,6 @@ export default function Home() {
             muted
             className="w-[300px] h-auto m-auto mb-10 rounded-lg"
           />
-
-          {/* <button className="btn btn-accent btn-wide group ">
-            Try it out{" "}
-            <ArrowLongRightIcon className="h-5 w-5 hover:scale-125 transition" />
-          </button> */}
         </section>
 
         <h2 id="try-it-out">Try it out!</h2>
